@@ -53,7 +53,7 @@ AirfRANS dataset
 
 ## 📚 Dataset
 
-This project uses the [AirfRANS dataset](https://github.com/Extrality/AirfRANS_dataset) by Bonnet et al. (2022):
+This project uses the [AirfRANS dataset](https://airfrans.readthedocs.io/en/latest/) by Bonnet et al. (2022):
 - 1,000 NACA airfoil simulations
 - Reynolds numbers: 2-6 × 10⁶
 - Angles of attack: 5-15°
