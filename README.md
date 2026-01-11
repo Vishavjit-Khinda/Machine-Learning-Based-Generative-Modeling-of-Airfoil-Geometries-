@@ -1,10 +1,7 @@
 # AeroML: Inverse Airfoil Design using Deep Learning
 
-> **Generate optimized NACA airfoil geometries from target aerodynamic parameters using machine learning**
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🎯 Overview
 
