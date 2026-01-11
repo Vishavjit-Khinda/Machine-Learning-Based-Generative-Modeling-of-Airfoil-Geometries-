@@ -68,6 +68,3 @@ Dan Hlevca, Ryan Yeager, Trevor Dyhrkopp, Vedant Bhat, Vishavjit Singh Khinda
 
 Bonnet, F., Mazari, J., Cinnella, P., & Gallinari, P. (2022). *Airfrans: High fidelity computational fluid dynamics dataset for approximating reynolds-averaged navier–stokes solutions.* Advances in Neural Information Processing Systems, 35, 23463-23478.
 
----
-
-**⭐ Star this repo if you find it useful!**
